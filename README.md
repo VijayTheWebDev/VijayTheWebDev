@@ -1,10 +1,15 @@
-<center>
+<style>
+  h1,h2
+  {
+    text-align:center;
+  }
+</style>
 <h1> 🙋‍♂️ Hi, I’m Vijay </h1>
-  </center>
+  
 <hr>
-<center>
+
 <h2>👨‍💻 I’m interested in Web Development</h2>
-</center>
+
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me vijays11397@gmail.com
 
