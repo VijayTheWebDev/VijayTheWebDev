@@ -1,6 +1,8 @@
 <center>
 <h1> 🙋‍♂️ Hi, I’m Vijay </h1>
+  </center>
 <hr>
+<center>
 <h2>👨‍💻 I’m interested in Web Development</h2>
 </center>
 - 🌱 I’m currently learning Full Stack Development
