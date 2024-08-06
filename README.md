@@ -1,5 +1,8 @@
-- <h1> 🙋‍♂️ Hi, I’m Vijay </h1>
-- 👨‍💻 I’m interested in Web Development
+<center>
+<h1> 🙋‍♂️ Hi, I’m Vijay </h1>
+<hr>
+<h2>👨‍💻 I’m interested in Web Development</h2>
+</center>
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me vijays11397@gmail.com
 
